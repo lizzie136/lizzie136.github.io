@@ -7,8 +7,8 @@
 
 Hi, my name is Elizabeth Portilla. I'm a Software Engineer, working remotely, currently in NYC.
 
-I work at @BairesDev, as Engineer for USA based clients. 
-I worked at @Laboratoria as a JavaScript Fullstack Engineer and as Head Coach/Instructor for the JavaScript track, but I'm more of a learner.
+I work at @kiddom as Front End Engineer. 
+Formerly worked at @BairesDev as Software Engineer for US based clients and @Laboratoria as a JavaScript Fullstack Engineer and as Head Coach/Instructor for the JavaScript track, but I'm more of a learner.
 
 If you are here, maybe you're interested in some of the open projects I have: 
 
