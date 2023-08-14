@@ -5,10 +5,8 @@
 [linkedin/eportillaf](https://www.linkedin.com/in/eportillaf)|
 [instagram/lizzie.136](https://www.instagram.com/lizzie.136/) 
 
-Hi, my name is Elizabeth Portilla. I'm a Software Engineer, working remotely, currently in NYC.
-
-I work at @kiddom as Front End Engineer. 
-Formerly worked at @BairesDev as Software Engineer for US based clients and @Laboratoria as a JavaScript Fullstack Engineer and as Head Coach/Instructor for the JavaScript track, but I'm more of a learner.
+Hi, my name is Elizabeth Portilla. I am a software engineer currently working remotely from NYC. 
+I work as a front-end engineer at @kiddom. Previously, I worked as a software engineer for US-based clients at @BairesDev, and as a JavaScript full-stack engineer and head coach/instructor for the JavaScript track at @Laboratoria. However, I consider myself more of a learner than a teacher.
 
 If you are here, maybe you're interested in some of the open projects I have: 
 
